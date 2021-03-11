@@ -1,0 +1,37 @@
+/* add your CSS here */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#spur {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid rgb(221, 213, 213);
+    box-shadow: 5px 5px rgb(223, 216, 216);
+    background-color:bisque;
+
+}
+.header{
+    font-weight: bold;
+}
+img{
+    width: 300px;
+    padding-bottom: 10px;
+}
+#kat{
+    margin:0;
+    padding:10px;
+    border: 1px solid rgb(214, 204, 204);
+    background-color:aquamarine;
+
+}
+.box{
+    font-style: italic;
+}
+.bad{
+    font-weight: bold;
+
+}
+.list{
+    list-style: none;
+    padding: 0;
+}
